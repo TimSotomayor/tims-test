@@ -1,0 +1,12 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description" : "my test package",
+  "scripts": {
+  },
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
